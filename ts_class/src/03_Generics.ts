@@ -36,3 +36,7 @@ class MyClass<T>{
 }
 
 const mc = new MyClass<string>('孙悟空')
+
+let b: Array<number> = [1, 2, 3, 4, 5]
+let a = [1, 2, 3, 4, 5]
+console.log(a.toString)
